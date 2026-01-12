@@ -1,0 +1,177 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Rider
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea_modules/
+*.sln.iml
+
+# Jetbrains
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+*.pid
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Visual Studio Code specific
+.vscode/
+jsconfig.json
+launch.json
+
+# Unity
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+*.csproj
+*.sln
+
+# Builds
+*.unitypackage
+
+# Backups
+*.backup
+*.bak
+*.swp
+*~
+*.tmp
+*.temp
+
+# Mono
+*.pdb
+*.mdb
+*.opendb
+
+# Rider
+.idea/
+Assets/Plugins/Editor/JetBrains*
+
+# ExternalProfiler
+/[Aa]ssets/[Aa]ddons/Profiler/
+/[Aa]ssets/[Aa]ddons/VTubeStudio/
+
+# NuGet
+.nuget/
+*.nupkg
+*.snupkg
+
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test results
+test-results.xml
+TestResults/
+
+# Continuous Integration
+.github/workflows/*.log
+
+# Miscellaneous
+*.orig
+*.rej
+.AppleDouble
+.LSOverride
+*.lnk
+
+# Project specific exclusions
+# (Add any custom directories here that should be ignored)
+
+# Cache files
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Android
+/[Aa]ssets/[Pp]lugins/Android/
+gradleTemplate.properties
+.gradle/
+build/
+
+# iOS
+/[Aa]ssets/[Pp]lugins/iOS/
+
+# WebGL
+/[Aa]ssets/[Pp]lugins/WebGL/
+
+# Mac
+*.app
+
+# Windows
+*.exe
+*.dll
+*.manifest
+
+# Linux
+*.so
+*.a
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.xz
+
+# Certificates
+*.pfx
+*.p12
+*.cer
+*.crt
+*.pem
+*.key
+
+
