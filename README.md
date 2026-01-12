@@ -1,4 +1,4 @@
-# Kitchen Chaos - Polish Edition
+# Kitchen Chaos
 
 A fast-paced cooking game built with Unity, based on the Kitchen Chaos tutorial series by Code Monkey.
 
@@ -14,7 +14,6 @@ Kitchen Chaos is a fun and challenging game where players must prepare and deliv
 - **Pause Functionality**: Pause and resume the game at any time
 - **State Management**: Game progression through multiple states (Waiting, Countdown, Playing, Game Over)
 - **Audio System**: Music management with state-based audio handling
-- **Polish Edition**: Enhanced version with additional polish and improvements
 
 ## Project Structure
 
@@ -91,7 +90,7 @@ This is a learning project based on Code Monkey's tutorial. Please refer to Code
 
 ## Additional Notes
 
-This version includes the "Polish Edition" enhancements and improvements to the base Kitchen Chaos game, including optimized timer mechanics and better state management.
+This version includes the enhancements and improvements to the base Kitchen Chaos game, including optimized timer mechanics and better state management.
 
 ---
 
