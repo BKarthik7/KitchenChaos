@@ -10,7 +10,7 @@ Kitchen Chaos is a fun and challenging game where players must prepare and deliv
 
 - **Dynamic Gameplay**: Orders spawn continuously and must be completed within the time limit
 - **Recipe Management**: Track waiting orders and successfully completed deliveries
-- **Time System**: Starting with 30 seconds, each successful delivery adds 25 seconds (capped at max)
+- **Time System**: Starting with 60 seconds, each successful delivery adds 30 seconds (capped at max)
 - **Pause Functionality**: Pause and resume the game at any time
 - **State Management**: Game progression through multiple states (Waiting, Countdown, Playing, Game Over)
 - **Audio System**: Music management with state-based audio handling
