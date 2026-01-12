@@ -2,6 +2,8 @@
 
 A fast-paced cooking game built with Unity, based on the Kitchen Chaos tutorial series by Code Monkey.
 
+**🎮 Play Now**: https://play.unity.com/en/games/852908ee-4856-4ddc-979e-e3f0198be4f7/kitchenchaos
+
 ## Overview
 
 Kitchen Chaos is a fun and challenging game where players must prepare and deliver recipes within a time limit. The game features multiple counters, ingredient management, recipe tracking, and dynamic time extensions based on successful deliveries.
